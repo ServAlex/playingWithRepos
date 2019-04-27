@@ -1,2 +1,3 @@
-first line
+updated line
+inserted line
 second line
